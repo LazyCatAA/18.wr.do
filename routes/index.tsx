@@ -44,7 +44,7 @@ export default function Home() {
           <div class="text-sm fixed bottom-20 left-0 right-0 text-center text-[#c5005a]">
             支持android，ios，平板，电脑等设备访问
             <br />
-            @18.wr.do
+            @LazyCat
           </div>
         </div>
 
