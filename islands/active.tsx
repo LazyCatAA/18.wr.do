@@ -1,5 +1,4 @@
-// component.jsx
-import { useSignal } from "@preact/signals"; // 或者其他 Signals 库
+import { useSignal } from "@preact/signals";
 
 function ACtiveInput() {
   const inputValue = useSignal("");
@@ -10,7 +9,8 @@ function ACtiveInput() {
 
   const handleActivateClick = () => {
     if (inputValue.value) {
-      window.location.href = `/${inputValue.value}`;
+      // 改为跳转到统一验证页面
+      window.location.href = `/activate?code=${inputValue.value}`;
     }
   };
 
