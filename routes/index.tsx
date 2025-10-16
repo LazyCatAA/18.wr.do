@@ -38,7 +38,7 @@ export default function Home() {
               class="pb-1 border-b-[0.0625rem] border-dashed border-gray-300"
               href="https://haokawx.lot-ml.com/Product/Index/475790"
               target="_blank">
-              📱手机大流量卡套餐【长期29元160G】
+              🩷🩷芸芸众生🩷🩷
             </a>
           </div>
           <div class="text-sm fixed bottom-20 left-0 right-0 text-center text-[#c5005a]">
