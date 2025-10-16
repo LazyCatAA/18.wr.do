@@ -29,7 +29,7 @@ export default function About() {
           {/* <br class="my-3 bg-[#c4bcc029]" /> */}
           <ACtiveInput value="" />
           <button class="btn btn-primary text-xs text-white mt-3 px-4 py-2 border rounded-lg bg-pink-600">
-            🔔 扫描下方二维码支付 9.9元，支付后请添加客服微信【 oiovdev
+            🔔 扫描下方二维码支付 9.9元，支付后请添加客服微信【 YunYun038a
             】获取激活码! 客服回复时间段：7:00-24:00
           </button>
           <img class="my-3 rounded-lg max-w-full" src="/qrcode.JPG" alt="" />
@@ -62,7 +62,7 @@ export default function About() {
                 </li>
               </ul>
               <p class="mt-4 font-bold text-blue-500">
-                📞 遇到问题？欢迎添加客服微信 oiovdev，我们将竭诚为您服务！
+                📞 遇到问题？欢迎添加客服微信 YunYun038a，我们将竭诚为您服务！
               </p>
             </div>
 
@@ -73,7 +73,7 @@ export default function About() {
         )} */}
       </div>
 
-      <p class="m-2 mb-20 text-center font-bold text-[#c5005a]">@18.wr.do</p>
+      <p class="m-2 mb-20 text-center font-bold text-[#c5005a]">@LazyCat</p>
       <Dock />
     </div>
   );
